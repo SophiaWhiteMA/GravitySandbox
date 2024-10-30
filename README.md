@@ -2,7 +2,7 @@
 
 https://gravity.cameronwhite.io
 
-![Gravity sandbox animated GIF](https://github.com/SophiaWhiteMA/GravitySandbox/blob/master/animated.gif?raw=true)
+![Gravity sandbox animated GIF](https://github.com/SophiaWhiteMA/GravitySandbox/blob/main/animated.gif?raw=true)
 
 ## About 
 
