@@ -1,6 +1,6 @@
 # Gravity Sandbox
 
-https://gravity.cameronwhite.io
+https://gravity.sophiawhite.io
 
 ![Gravity sandbox animated GIF](https://github.com/SophiaWhiteMA/GravitySandbox/blob/main/animated.gif?raw=true)
 
